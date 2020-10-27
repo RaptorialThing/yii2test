@@ -1,0 +1,22 @@
+User
+id
+name
+email
+accesslevel: 'admin', 'moderator', 'user'
+getUserMessages();
+
+Chat
+id
+title
+
+getChatMessages();
+
+
+Message
+id
+title
+text
+chat_id
+user_id
+
+
